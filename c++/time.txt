@@ -1,1 +1,1 @@
-
+Simple Digital Clock using C++.
